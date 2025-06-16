@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-# Awesome Webflow Agencies & AI Tools 🚀
+### Awesome Webflow Agencies & AI Tools 🚀
 
 A curated list of the most popular AI tools for Webflow agencies, web developers, and digital creators.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-webflow-agency.svg?style=social&label=Star)](https://github.com/yourusername/awesome-webflow-agency)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/awesome-webflow-agency.svg?style=social&label=Fork)](https://github.com/yourusername/awesome-webflow-agency)
+[![GitHub stars](https://img.shields.io/github/stars/erikthought/awesome-ai-tools.svg?style=social&label=Star)](https://github.com/erikthought/awesome-ai-tools)
+[![GitHub forks](https://img.shields.io/github/forks/erikthought/awesome-ai-tools.svg?style=social&label=Fork)](https://github.com/erikthought/awesome-ai-tools)
 
 ## 🇺🇸 English
 
@@ -379,13 +378,9 @@ Give a ⭐️ if this project helped you!
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@erikthought](https://github.com/erikthought)
+- Repository: [awesome-ai-tools](https://github.com/erikthought/awesome-ai-tools)
 
 ---
 
-**Note**: This list is regularly updated to include the latest and most popular AI tools. Last updated: December 2024 
-=======
-# awesome-ai-tools
-Curated list of Best AI Tools
->>>>>>> a31d9e9f1fb164bcb22c097561c3c8e92e91c614
+**Note**: This list is regularly updated to include the latest and most popular AI tools. Last updated: May 2025 
