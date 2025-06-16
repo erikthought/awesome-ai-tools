@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Awesome Webflow Agencies & AI Tools 🚀
 
 A curated list of the most popular AI tools for Webflow agencies, web developers, and digital creators.
@@ -384,3 +385,7 @@ If you have any questions or suggestions, feel free to reach out:
 ---
 
 **Note**: This list is regularly updated to include the latest and most popular AI tools. Last updated: December 2024 
+=======
+# awesome-ai-tools
+Curated list of Best AI Tools
+>>>>>>> a31d9e9f1fb164bcb22c097561c3c8e92e91c614
